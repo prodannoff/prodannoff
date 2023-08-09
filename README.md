@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Yan
+- 👀 I’m interested in = JavaScript | HTML | CSS | React | Python | Flask | Django | C# | .NET | Unity
+- 🌱 I’m currently learning = JavaScript | HTML | CSS | React
+- 💞️ I’m looking to collaborate on = Web Apps
